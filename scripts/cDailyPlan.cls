@@ -184,7 +184,7 @@ Public Sub Conditional_Formating()
     If Application.LanguageSettings.LanguageID(msoLanguageIDInstall) = msoLanguageIDGerman Then
         formula = "=BEREICH.VERSCHIEBEN(INDIREKT(ADRESSE(ZEILE(); SPALTE()));1;-1)"
     ElseIf Application.LanguageSettings.LanguageID(msoLanguageIDInstall) = msoLanguageIDRussian Then
-        formula = "=����(������(�����(������(); �������()));1;-1)"
+        formula = "=������������(������������������(���������������(������������������(); ���������������������()));1;-1)"
     Else
         formula = "=OFFSET(INDIRECT(ADDRESS(ROW(), COLUMN())),1,-1)"
     End If
@@ -212,7 +212,7 @@ Public Sub Conditional_Formating()
     If Application.LanguageSettings.LanguageID(msoLanguageIDInstall) = msoLanguageIDGerman Then
         formula = "=$B4=HEUTE()"
     ElseIf Application.LanguageSettings.LanguageID(msoLanguageIDInstall) = msoLanguageIDRussian Then
-        formula = "=$B4=�������()"
+        formula = "=$B4=���������������������()"
     Else
         formula = "=$B4=TODAY()"
     End If

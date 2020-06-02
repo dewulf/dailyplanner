@@ -194,3 +194,4 @@ Private Sub Class_Initialize()
     pContent = Space(defaultChunkSize)
 End Sub
 
+

@@ -2,7 +2,7 @@
 ## VBA Module: **[cJobject](/libraries/cJobject.cls "source is here")**
 ### Type: ClassModule  
 
-This procedure list for repo (DailyPlanner) was automatically created on 6/2/2020 7:31:27 PM by VBAGit.
+This procedure list for repo (DailyPlanner) was automatically created on 6/2/2020 8:22:30 PM by VBAGit.
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation")
 
 Below is a section for each procedure in cJobject

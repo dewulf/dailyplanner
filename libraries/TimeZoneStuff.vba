@@ -187,3 +187,5 @@ Function DaylightTime() As TIME_ZONE
     DST = GetTimeZoneInformation(TZI)
     DaylightTime = DST
 End Function
+
+()

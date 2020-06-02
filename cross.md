@@ -1,5 +1,5 @@
 # VBA Project: DailyPlanner
-This cross reference list for repo (DailyPlanner) was automatically created on 6/2/2020 7:31:28 PM by VBAGit.For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation")
+This cross reference list for repo (DailyPlanner) was automatically created on 6/2/2020 8:22:32 PM by VBAGit.For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation")
 You can see [library and dependency information here](dependencies.md)
 
 ###Below is a cross reference showing which modules and procedures reference which others

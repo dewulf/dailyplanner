@@ -2,7 +2,7 @@
 ## VBA Module: **[cDailyPlan](/scripts/cDailyPlan.cls "source is here")**
 ### Type: ClassModule  
 
-This procedure list for repo (DailyPlanner) was automatically created on 6/2/2020 7:31:28 PM by VBAGit.
+This procedure list for repo (DailyPlanner) was automatically created on 6/2/2020 8:22:31 PM by VBAGit.
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation")
 
 Below is a section for each procedure in cDailyPlan

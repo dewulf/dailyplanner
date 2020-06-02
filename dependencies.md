@@ -1,5 +1,5 @@
 # VBA Project: DailyPlanner
-This repo (DailyPlanner) was automatically created on 6/2/2020 7:31:28 PM by VBAGit.For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")  
+This repo (DailyPlanner) was automatically created on 6/2/2020 8:22:32 PM by VBAGit.For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")  
 ## Details for VBA project DailyPlanner
 Where possibile directly referenced or sub referenced library sources have been copied to this repository  
 ### Modules of DailyPlanner included in this repo
@@ -7,6 +7,7 @@ Where possibile directly referenced or sub referenced library sources have been 
 ---|---|---|---  
 ButtonActions|StdModule|[ButtonActions.vba](scripts/ButtonActions.vba "script source")|[ButtonActions_vba.md](scripts/ButtonActions_vba.md "script docs")  
 ContextMenu|StdModule|[ContextMenu.vba](scripts/ContextMenu.vba "script source")|[ContextMenu_vba.md](scripts/ContextMenu_vba.md "script docs")  
+Update|StdModule|[Update.vba](scripts/Update.vba "script source")|[Update_vba.md](scripts/Update_vba.md "script docs")  
 cDailyPlan|ClassModule|[cDailyPlan.cls](scripts/cDailyPlan.cls "script source")|[cDailyPlan_cls.md](scripts/cDailyPlan_cls.md "script docs")  
 cDayTemplate|ClassModule|[cDayTemplate.cls](scripts/cDayTemplate.cls "script source")|[cDayTemplate_cls.md](scripts/cDayTemplate_cls.md "script docs")  
 cConfiguration|ClassModule|[cConfiguration.cls](scripts/cConfiguration.cls "script source")|[cConfiguration_cls.md](scripts/cConfiguration_cls.md "script docs")  

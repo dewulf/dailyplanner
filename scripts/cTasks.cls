@@ -83,3 +83,4 @@ Private Sub Class_Initialize()
     Set pCol_rm_taskid = pWs.Range("wsr_tasks_rm_taskid")
     Set pCol_owner = pWs.Range("wsr_tasks_owner")
 End Sub
+
